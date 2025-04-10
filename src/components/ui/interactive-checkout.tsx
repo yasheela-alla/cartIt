@@ -51,15 +51,7 @@ const defaultProducts: Product[] = [
         color: "White",
     },
     {
-        id: "4",
-        name: "Stanley Tumbler",
-        price: 49.99,
-        category: "Lifestyle",
-        image: "https://images.unsplash.com/photo-1640371678280-9dc27de8e9b5?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=256",
-        color: "Sage Green",
-    },
-    {
-        id: "5",
+        id: "6",
         name: "Levi's 501 Jeans",
         price: 98.99,
         category: "Apparel",
@@ -67,7 +59,7 @@ const defaultProducts: Product[] = [
         color: "Vintage Blue",
     },
     {
-        id: "6",
+        id: "7",
         name: "Polaroid Now Camera",
         price: 119.99,
         category: "Photography",
@@ -75,20 +67,12 @@ const defaultProducts: Product[] = [
         color: "White & Rainbow",
     },
     {
-        id: "7",
+        id: "8",
         name: "Mechanical Keyboard",
         price: 129.99,
         category: "Tech",
         image: "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=256",
         color: "RGB Backlit",
-    },
-    {
-        id: "8",
-        name: "Cropped Hoodie",
-        price: 59.99,
-        category: "Apparel",
-        image: "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=256",
-        color: "Oversized Black",
     },
 ];
 
